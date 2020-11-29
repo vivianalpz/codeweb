@@ -1,11 +1,13 @@
 /*Extra small devices (portrait phones, less than 576px)*/
 @media (max-width: 575px) {
+  
   .content-section {
     padding-top: 70px;
     padding-bottom: 70px;
   }
   .logo i {
     font-size: 40px;
+    
   }
   #Banner .content-wrap h1 {
     font-size: 36px;
@@ -166,7 +168,14 @@
   }
   #Contact .c-icon {
     margin-right: 10px;
+  
   }
+ 
+
 }
 /*Extra large devices (large desktops, 1200px and up)*/
-@media (min-width: 1200px) {}
+@media (min-width: 1200px) {
+
+  .icono { color: #FF0000; }
+
+}
