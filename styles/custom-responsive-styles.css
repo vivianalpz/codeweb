@@ -27,6 +27,7 @@
     width: 100%;
     display: block;
   }
+
   #customers-testimonials .item {
     margin-bottom: 0;
   }
@@ -91,6 +92,7 @@
     width: 100%;
     display: block;
   }
+ 
   #customers-testimonials .item {
     margin-bottom: 0;
   }
@@ -236,6 +238,9 @@
    }
    .tex-blanco{
      color:  #c4c4c4;
+   }
+   .imgp{
+    width: 200px; height: 200px;
    }
  
 
